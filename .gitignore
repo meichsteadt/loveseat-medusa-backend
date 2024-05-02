@@ -17,6 +17,7 @@ yarn.lock
 medusa-db.sql
 build
 .cache
+/.vscode
 
 .yarn/*
 !.yarn/patches
